@@ -1,4 +1,8 @@
 # Test task for ISPRAS Cloud Department: Simple Golang Server
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/fckxorg/isp-clouds-test/Go)
+![GitHub](https://img.shields.io/github/license/fckxorg/isp-clouds-test)
+![GitHub last commit](https://img.shields.io/github/last-commit/fckxorg/isp-clouds-test)
+
 ## Docs
 API specification can be found [here](https://app.swaggerhub.com/apis-docs/fckxorg/isp-clouds-test/1.0.0).
 
