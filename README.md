@@ -15,3 +15,9 @@ go build -v ./...
 ```
 go test -v ./...
 ```
+
+## Running in Docker container
+```
+docker build --tag ispras-test-server
+docker run --publish 8080:8080 ispras-test-server
+```
